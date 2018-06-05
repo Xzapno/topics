@@ -1,0 +1,87 @@
+/* ===== Layout Styles ==== */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+#container {
+    background-color: white;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+#intro {
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    max-width: 800px;
+    max-height: auto;
+}
+
+form {
+    margin-top: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/* ===== Font Styles ==== */
+
+
+
+/* ===== Image Styles ==== */
+
+#logo {
+    max-width: 100%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ===== Button Styles ==== */
+
+button {
+    background-color: #677250;
+    border: none;
+    padding: 8px 12px;
+    margin: 4px 2px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+button:hover {
+    background-color: #414733;
+    color: white;
+}
+
+#add-person {
+    background-color: #677250;
+    border: none;
+    padding: 8px 12px;
+    margin: 4px 2px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+#add-person:hover {
+    background-color: #414733;
+    color: white;
+}
