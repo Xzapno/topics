@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   // Initial array of stars
 
-  var person = ["Rita Hayworth", "Ava Gardner", "Veronica Lake", "Betty Grable", "Jane Russel"];
+  var person = ["Rita Hayworth", "Ava Gardner", "Veronica Lake", "Betty Grable", "Lauren Bacall ", "Jane Russel"];
 
   // Function to dre-render HTML to display content
 
