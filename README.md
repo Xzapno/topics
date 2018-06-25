@@ -1,4 +1,4 @@
-# GifTastic
+# GifTastic Topics
 
 Online Version: https://xzapno.github.io/topics/
 
